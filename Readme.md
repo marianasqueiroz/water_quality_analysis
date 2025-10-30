@@ -4,7 +4,7 @@
 
 This project aims to apply concepts of **chemical engineering** and **data analysis** to explore water quality indicators in an industrial process.
 
-## 🧠 Technologies Used
+## Technologies Used
 - **SQL (PostgreSQL + pgAdmin)** — for queries and aggregations  
 - **Python (Pandas, Matplotlib, Seaborn)** — for exploratory analysis  
 - **Power BI** — for result visualization  
