@@ -64,7 +64,8 @@ Este projeto tem como objetivo aplicar conceitos de **engenharia química** e **
 
 ## Resultados
 O dashboard mostra variações de qualidade da água ao longo de varias amostragens e destaca os períodos críticos e em que a água transitava entre potável e não potável.  
-*(![Alt text](<Image 1.png>))*  
+*(<img width="1102" height="622" alt="Image 1" src="https://github.com/user-attachments/assets/475069a4-7724-4406-941c-62e317339cec" />)*  
+
 
 *(![Alt text](<Image 2.png>))*  
 
