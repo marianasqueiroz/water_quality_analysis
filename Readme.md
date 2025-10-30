@@ -28,8 +28,10 @@ This project aims to apply concepts of **chemical engineering** and **data analy
 ## Results
 The dashboard displays variations in water quality across multiple samples, highlighting critical periods and transitions between potable and non-potable water.  
 
+# Image 1
 <img width="1102" height="622" alt="Image 1" src="https://github.com/user-attachments/assets/475069a4-7724-4406-941c-62e317339cec" />)
 
+# Image 2
 <img width="1097" height="611" alt="Image 2" src="https://github.com/user-attachments/assets/d67ee6a2-80a5-4f51-9c63-ae613c7ec97d" />
 
 
@@ -67,8 +69,10 @@ Este projeto tem como objetivo aplicar conceitos de **engenharia química** e **
 ## Resultados
 O dashboard mostra variações de qualidade da água ao longo de varias amostragens e destaca os períodos críticos e em que a água transitava entre potável e não potável.  
 
+# Imagem 1
 <img width="1102" height="622" alt="Image 1" src="https://github.com/user-attachments/assets/475069a4-7724-4406-941c-62e317339cec" />)
 
+# Imagem 2
 <img width="1097" height="611" alt="Image 2" src="https://github.com/user-attachments/assets/d67ee6a2-80a5-4f51-9c63-ae613c7ec97d" />
 
 ## Autora
