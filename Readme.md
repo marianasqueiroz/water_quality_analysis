@@ -4,7 +4,7 @@
 
 This project aims to apply concepts of **chemical engineering** and **data analysis** to explore water quality indicators in an industrial process.
 
-This project is based on [Water Quality Dataset]<https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data>
+This project is based on [Water Quality Dataset](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data)
 
 ## Technologies Used
 - **SQL (PostgreSQL + pgAdmin)** — for queries and aggregations  
@@ -47,7 +47,7 @@ Image 2
 
 Este projeto tem como objetivo aplicar conceitos de **engenharia química** e **análise de dados** para explorar indicadores de qualidade da água em um processo industrial.
 
-Este projeto é baseado no [Water Quality Dataset]<https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data>
+Este projeto é baseado no [Water Quality Dataset](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data)
 
 ## Tecnologias utilizadas
 - **SQL (PostgreSQL + pgAdmin)** — para consultas e agregações
